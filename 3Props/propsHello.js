@@ -9,3 +9,4 @@ class Hello extends React.Component {
 }
 // THIS IS THE COMPONENET
 // you can pass properties using this ans the variable you defined in the index ie to AND from
+// props are immutable and can not be updated directly
